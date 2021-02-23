@@ -8,3 +8,5 @@ Students who learn from home over Zoom or other platforms find it harder to stay
 We think that the problem is mostly one-sided, and belongs to the students. There may be concerns that teachers have regarding student participation, but by ensuring that students participate through various means, this alleviates the problems the teacher holds.
 This problem is mostly relevant to students who attend remotely, as those who attend in-person have a better chance to stay engaged with the teacher and their notes, whereas those who attend via Zoom have a higher tendency to lose focus.
 One real-world example would be when Dillon went in person to one class last semester, was the only one who was in person that day, took great notes and understood the material, but when he checked the GroupMe for the class, it was filled with students asking about what the class was about and not understanding the material.
+
+###
